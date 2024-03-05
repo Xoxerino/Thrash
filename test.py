@@ -42,6 +42,6 @@ template_path = "/Users/marek/Desktop/aa.pdf"
 output_path = "/Users/marek/Desktop/output.pdf"
 json_data = {"Name": "John Doe", "Age": 25}
 
-print("done")
+print("done")  # tu zmena
 
 create_pdf(template_path, output_path, json_data)
